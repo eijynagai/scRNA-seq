@@ -12,9 +12,12 @@ papers, methods, tutorials, and stuff related to the technology.
 
 ### Tutorials and scRNA-seq 101
 
-* [Full introductory course of scRNA-seq data analysis from Hemberg lab]
-(https://scrnaseq-course.cog.sanger.ac.uk/website/index.html)
+* [Full introductory course of scRNA-seq data analysis from Hemberg lab](https://scrnaseq-course.cog.sanger.ac.uk/website/index.html)
+* [Seurat tutorial from Satija lab](https://satijalab.org/seurat/v3.1/pbmc3k_tutorial.html)
 
 
+### List of packages and collections
 
-
+* [Packages collected by Sean Davis](https://satijalab.org/seurat/v3.1/pbmc3k_tutorial.html)
+* [Collection from CrazyHotTommy](https://github.com/crazyhottommy/RNA-seq-analysis#single-cell-rna-seq)
+* [scRNA-tools](https://www.scrna-tools.org/)
