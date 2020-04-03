@@ -38,4 +38,7 @@ papers, methods, tutorials, and stuff related to the technology.
 * []
 
 
+### Comparison with bulk RNA-seq
+* [Bacher and Kendziorski, Genome Biology, 2016. Design and computational analysis of
+single-cell RNA-sequencing experiments](https://genomebiology.biomedcentral.com/track/pdf/10.1186/s13059-016-0927-y)
 
