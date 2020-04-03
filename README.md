@@ -23,6 +23,11 @@ papers, methods, tutorials, and stuff related to the technology.
 * [Luecken and Theis, Mol Sys Biol, 2019. Current best practices in single‐cell RNA‐seq analysis: a tutorial](https://www.embopress.org/doi/10.15252/msb.20188746) 
 
 
+### Experimental design
+
+* [Molin and Camillo, Brif. in Bioinfo., 2019. How to design a single-cell RNA-sequencing experiment: pitfalls, challenges and perspectives](https://academic.oup.com/bib/article/20/4/1384/4831233)
+
+
 ### List of packages and collections
 
 * [Packages collected by Sean Davis](https://satijalab.org/seurat/v3.1/pbmc3k_tutorial.html)
@@ -41,4 +46,5 @@ papers, methods, tutorials, and stuff related to the technology.
 ### Comparison with bulk RNA-seq
 * [Bacher and Kendziorski, Genome Biology, 2016. Design and computational analysis of
 single-cell RNA-sequencing experiments](https://genomebiology.biomedcentral.com/track/pdf/10.1186/s13059-016-0927-y)
+
 
