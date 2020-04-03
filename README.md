@@ -1,4 +1,4 @@
-# scRNA-seq info
+ scRNA-seq info
 
 Notes on scRNA-seq analysis
 
@@ -14,18 +14,27 @@ papers, methods, tutorials, and stuff related to the technology.
 
 * [Full introductory course of scRNA-seq data analysis from Hemberg lab](https://scrnaseq-course.cog.sanger.ac.uk/website/index.html)
 * [Seurat tutorial from Satija lab](https://satijalab.org/seurat/v3.1/pbmc3k_tutorial.html)
-
+* [Ciomplete course from Yeo's Lab](https://github.com/YeoLab/single-cell-bioinformatics)
 
 ### Review papers
 
 * [Hwang et al, Nature EMM, 2018. Single-cell RNA sequencing technologies and bioinformatics pipelines](https://www.nature.com/articles/s12276-018-0071-8)
 * [Vieth et al, Nature Comm, 2019. A systematic evaluation of single cell RNA-seq analysis pipelines](https://www.nature.com/articles/s41467-019-12266-7)
 * [Luecken and Theis, Mol Sys Biol, 2019. Current best practices in single‐cell RNA‐seq analysis: a tutorial](https://www.embopress.org/doi/10.15252/msb.20188746) 
+* [Single cell RNA-seq tutorial from Theis' lab](https://github.com/theislab/single-cell-tutorial)
 
 
 ### Experimental design
 
 * [Molin and Camillo, Brif. in Bioinfo., 2019. How to design a single-cell RNA-sequencing experiment: pitfalls, challenges and perspectives](https://academic.oup.com/bib/article/20/4/1384/4831233)
+* [Zhang et al., Nat. Comm., 2020. Determining sequencing depth in a single-cell RNA-seq experiment](https://www.nature.com/articles/s41467-020-14482-y)
+
+
+### Batch effect and technical noise
+
+* [Lun et al., Genome Biology, 2019. EmptyDrops: distinguishing cells from
+empty droplets in droplet-based single-cell
+RNA sequencing data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1662-y)
 
 
 ### List of packages and collections
