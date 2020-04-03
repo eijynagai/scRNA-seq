@@ -28,3 +28,14 @@ papers, methods, tutorials, and stuff related to the technology.
 * [Packages collected by Sean Davis](https://satijalab.org/seurat/v3.1/pbmc3k_tutorial.html)
 * [Collection from CrazyHotTommy](https://github.com/crazyhottommy/RNA-seq-analysis#single-cell-rna-seq)
 * [scRNA-tools](https://www.scrna-tools.org/)
+
+
+### Resources
+
+* [Datasets from 10XGenomics](https://support.10xgenomics.com/single-cell-gene-expression/datasets)
+* [Manually curated database from Svensson's lab](http://www.nxn.se/single-cell-studies/)
+* [Human and mouse data from Hemberg's lab](https://hemberg-lab.github.io/scRNA.seq.datasets/)
+* []
+
+
+
