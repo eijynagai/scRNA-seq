@@ -15,13 +15,14 @@ papers, methods, tutorials, and stuff related to the technology.
 * [Full introductory course of scRNA-seq data analysis from Hemberg lab](https://scrnaseq-course.cog.sanger.ac.uk/website/index.html)
 * [Seurat tutorial from Satija lab](https://satijalab.org/seurat/v3.1/pbmc3k_tutorial.html)
 * [Ciomplete course from Yeo's Lab](https://github.com/YeoLab/single-cell-bioinformatics)
+* [Single cell RNA-seq tutorial from Theis' lab](https://github.com/theislab/single-cell-tutorial)
 
 ### Review papers
 
 * [Hwang et al, Nature EMM, 2018. Single-cell RNA sequencing technologies and bioinformatics pipelines](https://www.nature.com/articles/s12276-018-0071-8)
 * [Vieth et al, Nature Comm, 2019. A systematic evaluation of single cell RNA-seq analysis pipelines](https://www.nature.com/articles/s41467-019-12266-7)
 * [Luecken and Theis, Mol Sys Biol, 2019. Current best practices in single‐cell RNA‐seq analysis: a tutorial](https://www.embopress.org/doi/10.15252/msb.20188746) 
-* [Single cell RNA-seq tutorial from Theis' lab](https://github.com/theislab/single-cell-tutorial)
+* [Cheng et al., Frontier in Genetics, 2019. Single-Cell RNA-Seq Technologies and Related Computational Data Analysis](https://www.frontiersin.org/articles/10.3389/fgene.2019.00317/full)
 
 
 ### Experimental design
