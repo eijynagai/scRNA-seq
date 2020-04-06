@@ -25,6 +25,10 @@ papers, methods, tutorials, and stuff related to the technology.
 * [Cheng et al., Frontier in Genetics, 2019. Single-Cell RNA-Seq Technologies and Related Computational Data Analysis](https://www.frontiersin.org/articles/10.3389/fgene.2019.00317/full)
 
 
+### Challenges and open questions
+* [Lahnemann et al., Genome Biologym 2020. Eleven grand challenges in single-cell data science](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1926-6)
+
+
 ### Experimental design
 
 * [Molin and Camillo, Brif. in Bioinfo., 2019. How to design a single-cell RNA-sequencing experiment: pitfalls, challenges and perspectives](https://academic.oup.com/bib/article/20/4/1384/4831233)
