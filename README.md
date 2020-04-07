@@ -1,4 +1,4 @@
- scRNA-seq info
+# scRNA-seq info
 
 Notes on scRNA-seq analysis
 
