@@ -18,7 +18,7 @@ been more manually curated and content checked since 2020 April.
 * [Complete course from Yeo's Lab](https://github.com/YeoLab/single-cell-bioinformatics)
 * [Single cell RNA-seq tutorial from Theis' lab](https://github.com/theislab/single-cell-tutorial)
 * [Tutorial from Broad Institute](https://broadinstitute.github.io/2019_scWorkshop/)
-
+* [HBC Single-cell RNA-seq: raw sequencing data to counts](https://hbctraining.github.io/In-depth-NGS-Data-Analysis-Course/sessionIV/lessons/SC_pre-QC.html)
 
 ### Review papers
 
