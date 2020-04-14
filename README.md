@@ -46,6 +46,11 @@ empty droplets in droplet-based single-cell
 RNA sequencing data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1662-y)
 
 
+### Inputation
+
+* [Talwar et al., Scientific Reports, 2018. AutoImpute: Autoencoder based imputation of single-cell RNA-seq data](https://www.nature.com/articles/s41598-018-34688-x)
+
+
 ### List of packages and collections
 
 * [Packages collected by Sean Davis](https://satijalab.org/seurat/v3.1/pbmc3k_tutorial.html)
