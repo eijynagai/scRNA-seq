@@ -51,6 +51,7 @@ RNA sequencing data](https://genomebiology.biomedcentral.com/articles/10.1186/s1
 * [Talwar et al., Scientific Reports, 2018. AutoImpute: Autoencoder based imputation of single-cell RNA-seq data](https://www.nature.com/articles/s41598-018-34688-x)
 * [Andrews and Hemberg, F1000Research, 2019. False signals induced by single-cell imputation](https://f1000research.com/articles/7-1740)
 * [Huang et al., Nat. Methods, 2018. SAVER: gene expression recovery for single-cell RNA sequencing](https://www.nature.com/articles/s41592-018-0033-z)
+* [Peng et al., Genome Biology, 2019. SCRABBLE: single-cell RNA-seq imputation constrained by bulk RNA-seq data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1681-8)
 
 
 ### List of packages and collections
