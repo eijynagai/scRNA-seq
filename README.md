@@ -28,6 +28,7 @@ been more manually curated and content checked since 2020 April.
 * [Cheng et al., Frontier in Genetics, 2019. Single-Cell RNA-Seq Technologies and Related Computational Data Analysis](https://www.frontiersin.org/articles/10.3389/fgene.2019.00317/full)
 * [Haque et al., Genome Medicine. A practical guide to single-cell RNA-sequencing for biomedical research and clinical applications](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-017-0467-4)
 * [Lafzi et al., Nature Protocols, 2018. Tutorial: guidelines for the experimental design of single-cell RNA sequencing studies](https://www.nature.com/articles/s41596-018-0073-y)
+* [Chen et al., Front. Genet., 2019. Single-Cell RNA-Seq Technologies and Related Computational Data Analysis](https://www.frontiersin.org/articles/10.3389/fgene.2019.00317/full)
 
 ### Challenges and open questions
 * [Lahnemann et al., Genome Biologym 2020. Eleven grand challenges in single-cell data science](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1926-6)
