@@ -26,9 +26,10 @@ been more manually curated and content checked since 2020 April.
 * [Vieth et al, Nature Comm, 2019. A systematic evaluation of single cell RNA-seq analysis pipelines](https://www.nature.com/articles/s41467-019-12266-7)
 * [Luecken and Theis, Mol Sys Biol, 2019. Current best practices in single‐cell RNA‐seq analysis: a tutorial](https://www.embopress.org/doi/10.15252/msb.20188746) 
 * [Cheng et al., Frontier in Genetics, 2019. Single-Cell RNA-Seq Technologies and Related Computational Data Analysis](https://www.frontiersin.org/articles/10.3389/fgene.2019.00317/full)
-* [Haque et al., Genome Medicine. A practical guide to single-cell RNA-sequencing for biomedical research and clinical applications](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-017-0467-4)
+* [Haque et al., Genome Medicine, 2017. A practical guide to single-cell RNA-sequencing for biomedical research and clinical applications](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-017-0467-4)
 * [Lafzi et al., Nature Protocols, 2018. Tutorial: guidelines for the experimental design of single-cell RNA sequencing studies](https://www.nature.com/articles/s41596-018-0073-y)
 * [Chen et al., Front. Genet., 2019. Single-Cell RNA-Seq Technologies and Related Computational Data Analysis](https://www.frontiersin.org/articles/10.3389/fgene.2019.00317/full)
+* [Soneson and Robinson, Nature Methods, 2018. Bias, robustness and scalability in single-cell differential expression analysis](https://www.nature.com/articles/nmeth.4612)
 
 ### Challenges and open questions
 * [Lahnemann et al., Genome Biologym 2020. Eleven grand challenges in single-cell data science](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1926-6)
