@@ -62,6 +62,7 @@ RNA sequencing data](https://genomebiology.biomedcentral.com/articles/10.1186/s1
 * [Collection from CrazyHotTommy](https://github.com/crazyhottommy/RNA-seq-analysis#single-cell-rna-seq)
 * [scRNA-tools](https://www.scrna-tools.org/)
 * [A collection of 55 trajectory inference methods](https://github.com/dynverse/dynmethods#list-of-included-methods)
+* [Anthony Gitter. Single-cell RNA-seq pseudotime estimation algorithms. 2018. doi:10.5281/zenodo.1297422](https://github.com/agitter/single-cell-pseudotime)
 
 
 ### Resources
