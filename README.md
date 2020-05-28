@@ -60,7 +60,7 @@ RNA sequencing data](https://genomebiology.biomedcentral.com/articles/10.1186/s1
 * [Dong et. al, Briefings in Bioinformatics, 2020. SCDC: bulk gene expression deconvolution by multiple single-cell RNA sequencing references.](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbz166/5699815)
 
 
-### List of packages and collections
+### List of collections
 
 * [Packages collected by Sean Davis](https://satijalab.org/seurat/v3.1/pbmc3k_tutorial.html)
 * [Collection from CrazyHotTommy](https://github.com/crazyhottommy/RNA-seq-analysis#single-cell-rna-seq)
@@ -74,6 +74,11 @@ RNA sequencing data](https://genomebiology.biomedcentral.com/articles/10.1186/s1
 * [Datasets from 10XGenomics](https://support.10xgenomics.com/single-cell-gene-expression/datasets)
 * [Manually curated database from Svensson's lab](http://www.nxn.se/single-cell-studies/)
 * [Human and mouse data from Hemberg's lab](https://hemberg-lab.github.io/scRNA.seq.datasets/)
+
+
+### List of packages
+
+* [Seurat3.0](https://satijalab.org/seurat/)
 
 
 ### Comparison with bulk RNA-seq
