@@ -28,7 +28,6 @@ been more manually curated and content checked since 2020 April.
 * [Cheng et al., Frontier in Genetics, 2019. Single-Cell RNA-Seq Technologies and Related Computational Data Analysis](https://www.frontiersin.org/articles/10.3389/fgene.2019.00317/full)
 * [Haque et al., Genome Medicine, 2017. A practical guide to single-cell RNA-sequencing for biomedical research and clinical applications](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-017-0467-4)
 * [Lafzi et al., Nature Protocols, 2018. Tutorial: guidelines for the experimental design of single-cell RNA sequencing studies](https://www.nature.com/articles/s41596-018-0073-y)
-* [Chen et al., Front. Genet., 2019. Single-Cell RNA-Seq Technologies and Related Computational Data Analysis](https://www.frontiersin.org/articles/10.3389/fgene.2019.00317/full)
 * [Soneson and Robinson, Nature Methods, 2018. Bias, robustness and scalability in single-cell differential expression analysis](https://www.nature.com/articles/nmeth.4612)
 
 ### Challenges and open questions
@@ -56,6 +55,11 @@ RNA sequencing data](https://genomebiology.biomedcentral.com/articles/10.1186/s1
 * [Peng et al., Genome Biology, 2019. SCRABBLE: single-cell RNA-seq imputation constrained by bulk RNA-seq data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1681-8)
 
 
+### Deconvolution
+
+* [Dong et. al, Briefings in Bioinformatics, 2020. SCDC: bulk gene expression deconvolution by multiple single-cell RNA sequencing references.](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbz166/5699815)
+
+
 ### List of packages and collections
 
 * [Packages collected by Sean Davis](https://satijalab.org/seurat/v3.1/pbmc3k_tutorial.html)
@@ -65,7 +69,7 @@ RNA sequencing data](https://genomebiology.biomedcentral.com/articles/10.1186/s1
 * [Anthony Gitter. Single-cell RNA-seq pseudotime estimation algorithms. 2018. doi:10.5281/zenodo.1297422](https://github.com/agitter/single-cell-pseudotime)
 * [Velocyto](http://velocyto.org/)
 
-### Resources
+### Data resources
 
 * [Datasets from 10XGenomics](https://support.10xgenomics.com/single-cell-gene-expression/datasets)
 * [Manually curated database from Svensson's lab](http://www.nxn.se/single-cell-studies/)
