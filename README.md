@@ -19,6 +19,8 @@ been more manually curated and content checked since 2020 April.
 * [Single cell RNA-seq tutorial from Theis' lab](https://github.com/theislab/single-cell-tutorial)
 * [Tutorial from Broad Institute](https://broadinstitute.github.io/2019_scWorkshop/)
 * [HBC Single-cell RNA-seq: raw sequencing data to counts](https://hbctraining.github.io/In-depth-NGS-Data-Analysis-Course/sessionIV/lessons/SC_pre-QC.html)
+* [RNA Velocyto video](https://www.youtube.com/watch?v=EPTgF4EA2zY)
+
 
 ### Review papers
 
