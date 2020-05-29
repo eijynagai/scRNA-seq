@@ -78,7 +78,10 @@ RNA sequencing data](https://genomebiology.biomedcentral.com/articles/10.1186/s1
 
 ### List of packages
 
-* [Seurat3.0](https://satijalab.org/seurat/)
+* [Seurat3](https://satijalab.org/seurat/)
+* [Monocle3](https://github.com/cole-trapnell-lab/monocle3)
+* [Velocity](http://velocyto.org/)
+
 
 
 ### Comparison with bulk RNA-seq
