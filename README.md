@@ -85,6 +85,10 @@ RNA sequencing data](https://genomebiology.biomedcentral.com/articles/10.1186/s1
 * [Velocity](http://velocyto.org/)
 
 
+### New marker genes identification
+
+* [Lorenzo et al., NAR, 2020. Combining single-cell rna-sequencing with a molecular atlas unveils new markers for caenorhabditis elegans neurons classes](https://academic.oup.com/nar/article/48/13/7119/5857708)
+
 
 ### Comparison with bulk RNA-seq
 * [Bacher and Kendziorski, Genome Biology, 2016. Design and computational analysis of
