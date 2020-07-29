@@ -33,8 +33,10 @@ been more manually curated and content checked since 2020 April.
 * [Soneson and Robinson, Nature Methods, 2018. Bias, robustness and scalability in single-cell differential expression analysis](https://www.nature.com/articles/nmeth.4612)
 
 ### Challenges and open questions
-* [Lahnemann et al., Genome Biologym 2020. Eleven grand challenges in single-cell data science](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1926-6)
+* [Lahnemann et al., Genome Biology, 2020. Eleven grand challenges in single-cell data science](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1926-6)
 
+### Multiomics integration
+* [Gorin et al., Genome Biology, 2020. Protein velocity and acceleration from single-cell multiomics experiments](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1945-3)
 
 ### Experimental design
 
