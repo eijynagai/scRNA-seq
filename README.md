@@ -83,7 +83,7 @@ RNA sequencing data](https://genomebiology.biomedcentral.com/articles/10.1186/s1
 * [Seurat3](https://satijalab.org/seurat/)
 * [Monocle3](https://github.com/cole-trapnell-lab/monocle3)
 * [Velocity](http://velocyto.org/)
-
+* [future: Unified Parallel and Distributed Processing in R for Everyone](https://github.com/HenrikBengtsson/future/tree/master)
 
 ### New marker genes identification
 
