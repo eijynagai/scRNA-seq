@@ -92,6 +92,12 @@ RNA sequencing data](https://genomebiology.biomedcentral.com/articles/10.1186/s1
 * [Lorenzo et al., NAR, 2020. Combining single-cell rna-sequencing with a molecular atlas unveils new markers for caenorhabditis elegans neurons classes](https://academic.oup.com/nar/article/48/13/7119/5857708)
 
 
+### Big projects, Atlas
+
+* [Saunders et al, Cell, 2018. Molecular Diversity and Specializations among the Cells of the Adult Mouse Brain](https://www.sciencedirect.com/science/article/pii/S0092867418309553?via%3Dihub#sec4)
+
+
+
 ### Comparison with bulk RNA-seq
 * [Bacher and Kendziorski, Genome Biology, 2016. Design and computational analysis of
 single-cell RNA-sequencing experiments](https://genomebiology.biomedcentral.com/track/pdf/10.1186/s13059-016-0927-y)
