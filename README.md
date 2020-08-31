@@ -49,6 +49,7 @@ been more manually curated and content checked since 2020 April.
 * [Lun et al., Genome Biology, 2019. EmptyDrops: distinguishing cells from
 empty droplets in droplet-based single-cell
 RNA sequencing data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1662-y)
+* [Ilicic et al., Genome Biolgy, 2016. Classification of low quality cells from single-cell RNA-seq data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4758103/)
 
 
 ### Imputation
