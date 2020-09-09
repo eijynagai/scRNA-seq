@@ -32,6 +32,11 @@ been more manually curated and content checked since 2020 April.
 * [Lafzi et al., Nature Protocols, 2018. Tutorial: guidelines for the experimental design of single-cell RNA sequencing studies](https://www.nature.com/articles/s41596-018-0073-y)
 * [Soneson and Robinson, Nature Methods, 2018. Bias, robustness and scalability in single-cell differential expression analysis](https://www.nature.com/articles/nmeth.4612)
 
+### Biclustering
+
+* [Pontes et al., Journal of Biological Informatics, 2015. Biclustering on expression data: A review](https://reader.elsevier.com/reader/sd/pii/S1532046415001380?token=48BFDC8133FBF0BA66678534D47DD8A14AADA2D663504FDBCFFA72450181161CBF4D5638C0DB37919F4CAE75AF0A638F)
+
+
 ### Challenges and open questions
 * [Lahnemann et al., Genome Biology, 2020. Eleven grand challenges in single-cell data science](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1926-6)
 
