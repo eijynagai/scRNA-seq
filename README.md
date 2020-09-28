@@ -23,7 +23,8 @@ been more manually curated and content checked since 2020 April.
 
 
 ### Review papers
-
+* [Vilas Menon, Briefings in Functional Genomics, 2018. Clustering single cells: a review of approaches on
+high-and low-depth single-cell RNA-seq data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6063268/pdf/elx044.pdf)
 * [Hwang et al, Nature EMM, 2018. Single-cell RNA sequencing technologies and bioinformatics pipelines](https://www.nature.com/articles/s12276-018-0071-8)
 * [Vieth et al, Nature Comm, 2019. A systematic evaluation of single cell RNA-seq analysis pipelines](https://www.nature.com/articles/s41467-019-12266-7)
 * [Luecken and Theis, Mol Sys Biol, 2019. Current best practices in single‐cell RNA‐seq analysis: a tutorial](https://www.embopress.org/doi/10.15252/msb.20188746) 
@@ -65,6 +66,11 @@ RNA sequencing data](https://genomebiology.biomedcentral.com/articles/10.1186/s1
 * [Huang et al., Nat. Methods, 2018. SAVER: gene expression recovery for single-cell RNA sequencing](https://www.nature.com/articles/s41592-018-0033-z)
 * [Peng et al., Genome Biology, 2019. SCRABBLE: single-cell RNA-seq imputation constrained by bulk RNA-seq data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1681-8)
 
+### Co-expression
+* [Farahbod M. and Pavlidis P., Genome Research, 2020. Untangling the effects of cellular composition
+on coexpression analysis](https://genome.cshlp.org/content/30/6/849.full.pdf+html)
+
+
 
 ### Deconvolution
 
@@ -79,6 +85,7 @@ RNA sequencing data](https://genomebiology.biomedcentral.com/articles/10.1186/s1
 * [A collection of 55 trajectory inference methods](https://github.com/dynverse/dynmethods#list-of-included-methods)
 * [Anthony Gitter. Single-cell RNA-seq pseudotime estimation algorithms. 2018. doi:10.5281/zenodo.1297422](https://github.com/agitter/single-cell-pseudotime)
 * [Velocyto](http://velocyto.org/)
+
 
 ### Data resources
 
