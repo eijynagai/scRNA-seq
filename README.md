@@ -18,6 +18,7 @@ been more manually curated and content checked since 2020 April.
 * [Complete course from Yeo's Lab](https://github.com/YeoLab/single-cell-bioinformatics)
 * [Single cell RNA-seq tutorial from Theis' lab](https://github.com/theislab/single-cell-tutorial)
 * [Tutorial from Broad Institute](https://broadinstitute.github.io/2019_scWorkshop/)
+* [2017/2018 Single Cell RNA Sequecing Analysis Workshop at UCD,UCB,UCSF](https://ucdavis-bioinformatics-training.github.io/2017_2018-single-cell-RNA-sequencing-Workshop-UCD_UCB_UCSF/)
 * [HBC Single-cell RNA-seq: raw sequencing data to counts](https://hbctraining.github.io/In-depth-NGS-Data-Analysis-Course/sessionIV/lessons/SC_pre-QC.html)
 * [RNA Velocyto video](https://www.youtube.com/watch?v=EPTgF4EA2zY)
 
