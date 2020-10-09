@@ -57,6 +57,7 @@ empty droplets in droplet-based single-cell
 RNA sequencing data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1662-y)
 * [Ilicic et al., Genome Biolgy, 2016. Classification of low quality cells from single-cell RNA-seq data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4758103/)
 * [Brennecke et al., Nature Methods, 2013. Accounting for technical noise in single-cell RNA-seq experiments](https://www.nature.com/articles/nmeth.2645)
+* [Hildreth Robert Frost, NAR, 2020. Variance-adjusted Mahalanobis (VAM): a fast and accurate method for cell-specific gene set scoring](https://academic.oup.com/nar/article/48/16/e94/5868339)
 
 
 ### Imputation
@@ -65,6 +66,7 @@ RNA sequencing data](https://genomebiology.biomedcentral.com/articles/10.1186/s1
 * [Andrews and Hemberg, F1000Research, 2019. False signals induced by single-cell imputation](https://f1000research.com/articles/7-1740)
 * [Huang et al., Nat. Methods, 2018. SAVER: gene expression recovery for single-cell RNA sequencing](https://www.nature.com/articles/s41592-018-0033-z)
 * [Peng et al., Genome Biology, 2019. SCRABBLE: single-cell RNA-seq imputation constrained by bulk RNA-seq data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1681-8)
+* [Patruno et at., Briefings in Bioinformatics, 2020. A review of computational strategies for denoising and imputation of single-cell transcriptomic data](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbaa222/5916940)
 
 ### Co-expression
 * [Farahbod M. and Pavlidis P., Genome Research, 2020. Untangling the effects of cellular composition
