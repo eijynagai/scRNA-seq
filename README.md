@@ -14,13 +14,17 @@ been manually curated and content checked since 2020 April.
 
 ### Getting started: scRNA-seq analysis 101
 
+* [Andrews et al., Nature Protocols, 2020. Tutorial: guidelines for the computational analysis of single-cell RNA sequencing data](https://www.nature.com/articles/s41596-020-00409-w)
+* [BioTuring's Blog: Single-cell RNA-seq tutorials](https://blog.bioturing.com/category/single-cell-rna-seq-tutorials/)
 * [Full introductory course of scRNA-seq data analysis from Hemberg lab](https://scrnaseq-course.cog.sanger.ac.uk/website/index.html)
 * [Seurat tutorial from Satija lab](https://satijalab.org/seurat/articles/pbmc3k_tutorial.html)
-* [Complete course from Yeo's Lab](https://github.com/YeoLab/single-cell-bioinformatics)
 * [Single cell RNA-seq tutorial from Theis' lab](https://github.com/theislab/single-cell-tutorial)
 * [Tutorial from Broad Institute](https://broadinstitute.github.io/2019_scWorkshop/)
+* [Luecken and Theis, MolSysBio., 2019. Current best practices in single‐cell RNA‐seq analysis: a tutorial](https://www.embopress.org/doi/full/10.15252/msb.20188746)
 * [2017/2018 Single Cell RNA Sequecing Analysis Workshop at UCD,UCB,UCSF](https://ucdavis-bioinformatics-training.github.io/2017_2018-single-cell-RNA-sequencing-Workshop-UCD_UCB_UCSF/)
 * [HBC Single-cell RNA-seq: raw sequencing data to counts](https://hbctraining.github.io/In-depth-NGS-Data-Analysis-Course/sessionIV/lessons/SC_pre-QC.html)
+* [2016 YeoLab single cell bioinformatics](https://github.com/YeoLab/single-cell-bioinformatics)
+* [Lun et al., F1000research, A step-by-step workflow for low-level analysis of single-cell RNA-seq data](https://f1000research.com/articles/5-2122/v1)
 
 ### Advanced analysis
 
