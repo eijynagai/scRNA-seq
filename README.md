@@ -1,27 +1,34 @@
-# scRNA-seq info
+# Single Cell Trancriptomics 
 
-Notes on scRNA-seq analysis
+A personal collection focused on scRNA-seq analysis.
+<br>
 
 ## Significance
 
 scRNA-seq has emerged as a standard technology to study and enhance the 
 understanding of transcription. The space here is dedicated to collect
 papers, methods, tutorials, and stuff related to the technology. It has 
-been more manually curated and content checked since 2020 April.
+been manually curated and content checked since 2020 April.
 
 ## Welcome to single cell world
 
-### Tutorials and scRNA-seq 101
+### Getting started: scRNA-seq analysis 101
 
 * [Full introductory course of scRNA-seq data analysis from Hemberg lab](https://scrnaseq-course.cog.sanger.ac.uk/website/index.html)
-* [Seurat tutorial from Satija lab](https://satijalab.org/seurat/v3.1/pbmc3k_tutorial.html)
+* [Seurat tutorial from Satija lab](https://satijalab.org/seurat/articles/pbmc3k_tutorial.html)
 * [Complete course from Yeo's Lab](https://github.com/YeoLab/single-cell-bioinformatics)
 * [Single cell RNA-seq tutorial from Theis' lab](https://github.com/theislab/single-cell-tutorial)
 * [Tutorial from Broad Institute](https://broadinstitute.github.io/2019_scWorkshop/)
 * [2017/2018 Single Cell RNA Sequecing Analysis Workshop at UCD,UCB,UCSF](https://ucdavis-bioinformatics-training.github.io/2017_2018-single-cell-RNA-sequencing-Workshop-UCD_UCB_UCSF/)
 * [HBC Single-cell RNA-seq: raw sequencing data to counts](https://hbctraining.github.io/In-depth-NGS-Data-Analysis-Course/sessionIV/lessons/SC_pre-QC.html)
+
+### Advanced analysis
+
+* [Seurat Wrappers: seurat integrated functions of popular tools such Monocle3, Harmony, Velocito, etc](https://github.com/satijalab/seurat-wrappers)
+* 
 * [RNA Velocyto video](https://www.youtube.com/watch?v=EPTgF4EA2zY)
 
+<br>
 
 ### Review papers
 * [Vilas Menon, Briefings in Functional Genomics, 2018. Clustering single cells: a review of approaches on
@@ -82,7 +89,7 @@ on coexpression analysis](https://genome.cshlp.org/content/30/6/849.full.pdf+htm
 
 ### List of collections
 
-* [Packages collected by Sean Davis](https://satijalab.org/seurat/v3.1/pbmc3k_tutorial.html)
+* [Packages collected by Sean Davis](https://github.com/seandavi/awesome-single-cell)
 * [Collection from CrazyHotTommy](https://github.com/crazyhottommy/RNA-seq-analysis#single-cell-rna-seq)
 * [scRNA-tools](https://www.scrna-tools.org/)
 * [A collection of 55 trajectory inference methods](https://github.com/dynverse/dynmethods#list-of-included-methods)
