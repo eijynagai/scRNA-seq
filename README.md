@@ -71,11 +71,8 @@ Let's divide the scRNA-seq workflow in two parts:
 
 ### Experimental design
 
-* [Molin and Camillo, Brif. in Bioinfo., 2019. How to design a single-cell RNA-sequencing experiment: pitfalls, challenges and perspectives](https://academic.oup.com/bib/article/20/4/1384/4831233)
-* [Zhang et al., Nat. Comm., 2020. Determining sequencing depth in a single-cell RNA-seq experiment](https://www.nature.com/articles/s41467-020-14482-y)
-
-
-
+* [Molin and Camillo, Briefings in Bioinformatics, 2019. How to design a single-cell RNA-sequencing experiment: pitfalls, challenges and perspectives](https://academic.oup.com/bib/article/20/4/1384/4831233)
+* [Zhang et al., Nature Communications, 2020. Determining sequencing depth in a single-cell RNA-seq experiment](https://www.nature.com/articles/s41467-020-14482-y)
 
 
 
@@ -99,7 +96,7 @@ Let's divide the scRNA-seq workflow in two parts:
 * [Tang et al., Bioinformatics, 2020. bayNorm: Bayesian gene expression recovery, imputation and normalization for single-cell RNA-sequencing data](https://academic.oup.com/bioinformatics/article/36/4/1174/5581401)
 
 
-### Batch effect removal
+### Batch effect correction
 * [Ilicic et al., Genome Biolgy, 2016. Classification of low quality cells from single-cell RNA-seq data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4758103/)
 * [Brennecke et al., Nature Methods, 2013. Accounting for technical noise in single-cell RNA-seq experiments](https://www.nature.com/articles/nmeth.2645)
 * [Hildreth Robert Frost, NAR, 2020. Variance-adjusted Mahalanobis (VAM): a fast and accurate method for cell-specific gene set scoring](https://academic.oup.com/nar/article/48/16/e94/5868339)
