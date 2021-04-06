@@ -90,7 +90,16 @@ Let's divide the scRNA-seq workflow in two parts:
 * [McGinnis et al., Cell Systems, 2019. DoubletFinder: Doublet Detection in Single-Cell RNA Sequencing Data Using Artificial Nearest Neighbors](https://www.sciencedirect.com/science/article/pii/S2405471219300730)
 
 
-### Batch effect and technical noise removal
+### Normalization
+* [SCTransform package repository](https://github.com/ChristophH/sctransform)
+* [Seurat SCTransform current vignette](https://satijalab.org/seurat/articles/sctransform_vignette.html)
+* [Hafemeister and Satija, Genome Biology, 2019. Normalization and variance stabilization of single-cell RNA-seq data using regularized negative binomial regression](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1874-1)
+* [(scran) Lun et al., Genome Biology, 2016. Pooling across cells to normalize single-cell RNA sequencing data with many zero counts](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0947-7)
+* [Bacher et al., Nature Methods, 2017. SCnorm: robust normalization of single-cell RNA-seq data](http://pages.cs.wisc.edu/~newton/papers/publications/nmeth.4263.pdf)
+* [Tang et al., Bioinformatics, 2020. bayNorm: Bayesian gene expression recovery, imputation and normalization for single-cell RNA-sequencing data](https://academic.oup.com/bioinformatics/article/36/4/1174/5581401)
+
+
+### Batch effect removal
 * [Ilicic et al., Genome Biolgy, 2016. Classification of low quality cells from single-cell RNA-seq data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4758103/)
 * [Brennecke et al., Nature Methods, 2013. Accounting for technical noise in single-cell RNA-seq experiments](https://www.nature.com/articles/nmeth.2645)
 * [Hildreth Robert Frost, NAR, 2020. Variance-adjusted Mahalanobis (VAM): a fast and accurate method for cell-specific gene set scoring](https://academic.oup.com/nar/article/48/16/e94/5868339)
@@ -102,6 +111,9 @@ Let's divide the scRNA-seq workflow in two parts:
 * [Huang et al., Nat. Methods, 2018. SAVER: gene expression recovery for single-cell RNA sequencing](https://www.nature.com/articles/s41592-018-0033-z)
 * [Peng et al., Genome Biology, 2019. SCRABBLE: single-cell RNA-seq imputation constrained by bulk RNA-seq data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1681-8)
 * [Patruno et at., Briefings in Bioinformatics, 2020. A review of computational strategies for denoising and imputation of single-cell transcriptomic data](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbaa222/5916940)
+* [Tang et al., Bioinformatics, 2020. bayNorm: Bayesian gene expression recovery, imputation and normalization for single-cell RNA-sequencing data](https://academic.oup.com/bioinformatics/article/36/4/1174/5581401)
+
+
 
 
 ### 
