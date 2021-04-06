@@ -56,29 +56,56 @@ high-and low-depth single-cell RNA-seq data](https://www.ncbi.nlm.nih.gov/pmc/ar
 ### Multiomics integration
 * [Gorin et al., Genome Biology, 2020. Protein velocity and acceleration from single-cell multiomics experiments](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1945-3)
 
+<br>
+
+Let's divide the scRNA-seq workflow in two parts:
+
+1. Generation of cells and the expression matrix
+
+2. Computational analysis of the expression matrix
+
+<br><br><br>
+
+## 1- Generation of cells and the expression matrix
+
+
 ### Experimental design
 
 * [Molin and Camillo, Brif. in Bioinfo., 2019. How to design a single-cell RNA-sequencing experiment: pitfalls, challenges and perspectives](https://academic.oup.com/bib/article/20/4/1384/4831233)
 * [Zhang et al., Nat. Comm., 2020. Determining sequencing depth in a single-cell RNA-seq experiment](https://www.nature.com/articles/s41467-020-14482-y)
 
 
-### Batch effect and technical noise
 
-* [Lun et al., Genome Biology, 2019. EmptyDrops: distinguishing cells from
-empty droplets in droplet-based single-cell
-RNA sequencing data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1662-y)
+
+
+
+### 2- Computational analysis of the expression matrix
+
+### Droplet identification
+* [Lun et al., Genome Biology, 2019. EmptyDrops: distinguishing cells from empty droplets in droplet-based single-cell RNA sequencing data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1662-y)
+
+
+### Doublet inference
+* [Wolock et al., Cell Systems, 2019. Scrublet: Computational Identification of Cell Doublets in Single-Cell Transcriptomic Data](https://www.sciencedirect.com/science/article/pii/S2405471218304745)
+* [McGinnis et al., Cell Systems, 2019. DoubletFinder: Doublet Detection in Single-Cell RNA Sequencing Data Using Artificial Nearest Neighbors](https://www.sciencedirect.com/science/article/pii/S2405471219300730)
+
+
+### Batch effect and technical noise removal
 * [Ilicic et al., Genome Biolgy, 2016. Classification of low quality cells from single-cell RNA-seq data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4758103/)
 * [Brennecke et al., Nature Methods, 2013. Accounting for technical noise in single-cell RNA-seq experiments](https://www.nature.com/articles/nmeth.2645)
 * [Hildreth Robert Frost, NAR, 2020. Variance-adjusted Mahalanobis (VAM): a fast and accurate method for cell-specific gene set scoring](https://academic.oup.com/nar/article/48/16/e94/5868339)
 
 
-### Imputation
-
+### Data imputation
 * [Talwar et al., Scientific Reports, 2018. AutoImpute: Autoencoder based imputation of single-cell RNA-seq data](https://www.nature.com/articles/s41598-018-34688-x)
 * [Andrews and Hemberg, F1000Research, 2019. False signals induced by single-cell imputation](https://f1000research.com/articles/7-1740)
 * [Huang et al., Nat. Methods, 2018. SAVER: gene expression recovery for single-cell RNA sequencing](https://www.nature.com/articles/s41592-018-0033-z)
 * [Peng et al., Genome Biology, 2019. SCRABBLE: single-cell RNA-seq imputation constrained by bulk RNA-seq data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1681-8)
 * [Patruno et at., Briefings in Bioinformatics, 2020. A review of computational strategies for denoising and imputation of single-cell transcriptomic data](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbaa222/5916940)
+
+
+### 
+
 
 ### Co-expression
 * [Farahbod M. and Pavlidis P., Genome Research, 2020. Untangling the effects of cellular composition
@@ -115,19 +142,18 @@ on coexpression analysis](https://genome.cshlp.org/content/30/6/849.full.pdf+htm
 * [Velocity](http://velocyto.org/)
 * [future: Unified Parallel and Distributed Processing in R for Everyone](https://github.com/HenrikBengtsson/future/tree/master)
 
-### New marker genes identification
-
+### Marker genes identification
 * [Lorenzo et al., NAR, 2020. Combining single-cell rna-sequencing with a molecular atlas unveils new markers for caenorhabditis elegans neurons classes](https://academic.oup.com/nar/article/48/13/7119/5857708)
-
+* [Descartes: human gene expression during development. Database for cell identification](https://atlas.brotmanbaty.org/bbi/human-gene-expression-during-development/dataset/liver)
 
 ### Big projects, Atlas
 
 * [Saunders et al, Cell, 2018. Molecular Diversity and Specializations among the Cells of the Adult Mouse Brain](https://www.sciencedirect.com/science/article/pii/S0092867418309553?via%3Dihub#sec4)
 
 
-
 ### Comparison with bulk RNA-seq
 * [Bacher and Kendziorski, Genome Biology, 2016. Design and computational analysis of
 single-cell RNA-sequencing experiments](https://genomebiology.biomedcentral.com/track/pdf/10.1186/s13059-016-0927-y)
+
 
 
