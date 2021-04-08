@@ -18,8 +18,9 @@ been manually curated and content checked since 2020 April.
 * [BioTuring's Blog: Single-cell RNA-seq tutorials](https://blog.bioturing.com/category/single-cell-rna-seq-tutorials/)
 * [Full introductory course of scRNA-seq data analysis from Hemberg lab](https://scrnaseq-course.cog.sanger.ac.uk/website/index.html)
 * [Seurat tutorial from Satija lab](https://satijalab.org/seurat/articles/pbmc3k_tutorial.html)
+* [Orchestrating Single-Cell Analysis with Bioconductor](http://bioconductor.org/books/release/OSCA/)
 * [Single cell RNA-seq tutorial from Theis' lab](https://github.com/theislab/single-cell-tutorial)
-* [Tutorial from Broad Institute](https://broadinstitute.github.io/2019_scWorkshop/)
+* [Complete tutorial from Broad Institute](https://broadinstitute.github.io/2019_scWorkshop/)
 * [Luecken and Theis, MolSysBio., 2019. Current best practices in single‐cell RNA‐seq analysis: a tutorial](https://www.embopress.org/doi/full/10.15252/msb.20188746)
 * [2017/2018 Single Cell RNA Sequecing Analysis Workshop at UCD,UCB,UCSF](https://ucdavis-bioinformatics-training.github.io/2017_2018-single-cell-RNA-sequencing-Workshop-UCD_UCB_UCSF/)
 * [HBC Single-cell RNA-seq: raw sequencing data to counts](https://hbctraining.github.io/In-depth-NGS-Data-Analysis-Course/sessionIV/lessons/SC_pre-QC.html)
@@ -31,7 +32,7 @@ been manually curated and content checked since 2020 April.
 * [Seurat Wrappers: seurat integrated functions of popular tools such Monocle3, Harmony, Velocito, etc](https://github.com/satijalab/seurat-wrappers)
 * 
 * [RNA Velocyto video](https://www.youtube.com/watch?v=EPTgF4EA2zY)
-
+* [Workshop on Machine learning for Single Cell Analysis from Krishnaswamy lab 2021, available for free on YouTube s2](https://www.youtube.com/playlist?list=PLW5ccXvlqgHjcCWuxMxdp6rtVs8fop8tM)
 <br>
 
 ### Review papers
@@ -142,7 +143,7 @@ on coexpression analysis](https://genome.cshlp.org/content/30/6/849.full.pdf+htm
 * [Datasets from 10XGenomics](https://support.10xgenomics.com/single-cell-gene-expression/datasets)
 * [Manually curated database from Svensson's lab](http://www.nxn.se/single-cell-studies/)
 * [Human and mouse data from Hemberg's lab](https://hemberg-lab.github.io/scRNA.seq.datasets/)
-
+* [scRNA-tools: A collection of scRNA-seq tools](https://www.scrna-tools.org/)
 
 ### List of packages
 
