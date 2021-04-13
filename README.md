@@ -98,9 +98,14 @@ Let's divide the scRNA-seq workflow in two parts:
 
 
 ### Batch effect correction
+Batch effect are technical noise such as the time the experiment was done, the person carrying out the experiment or differences in reagents, etc. To correclty apply batch effect correction to a dataset, the experiment cannot be confounded (i.e., each bach must contatin at least two biological conditions).
 * [Ilicic et al., Genome Biolgy, 2016. Classification of low quality cells from single-cell RNA-seq data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4758103/)
 * [Brennecke et al., Nature Methods, 2013. Accounting for technical noise in single-cell RNA-seq experiments](https://www.nature.com/articles/nmeth.2645)
 * [Hildreth Robert Frost, NAR, 2020. Variance-adjusted Mahalanobis (VAM): a fast and accurate method for cell-specific gene set scoring](https://academic.oup.com/nar/article/48/16/e94/5868339)
+
+Recommended tools as in [Tutorial: guidelines for the computational analysis of single-cell RNA sequencing data. Nature Protocols, 2021](https://pubmed.ncbi.nlm.nih.gov/33288955/)
+* [mmnCorrect. Haghverdi et atl., Nature Biotech, 2018. Batch effects in single-cell RNA-sequencing data are corrected by matching mutual nearest neighbors](https://www.nature.com/articles/nbt.4091)
+* [Seurat. Butler et al., Nature Biotech., 2018. Integrating single-cell transcriptomic data across different conditions, technologies, and species](https://www.nature.com/articles/nbt.4096)
 
 
 ### Data imputation
