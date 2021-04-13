@@ -103,12 +103,15 @@ Batch effect are technical noise such as the time the experiment was done, the p
 * [Brennecke et al., Nature Methods, 2013. Accounting for technical noise in single-cell RNA-seq experiments](https://www.nature.com/articles/nmeth.2645)
 * [Hildreth Robert Frost, NAR, 2020. Variance-adjusted Mahalanobis (VAM): a fast and accurate method for cell-specific gene set scoring](https://academic.oup.com/nar/article/48/16/e94/5868339)
 
-Recommended tools as in [Tutorial: guidelines for the computational analysis of single-cell RNA sequencing data. Nature Protocols, 2021](https://pubmed.ncbi.nlm.nih.gov/33288955/)
+Recommended tools as in [Tutorial: guidelines for the computational analysis of single-cell RNA sequencing data. Nature Protocols, 2021](https://pubmed.ncbi.nlm.nih.gov/33288955/). One important point is that even applying mutual-nearest-neighbors (mnn) tools between cells, one may incorrectly remove real biological signals if applied to a confounded experiment.
+
 * [mmnCorrect. Haghverdi et atl., Nature Biotech, 2018. Batch effects in single-cell RNA-sequencing data are corrected by matching mutual nearest neighbors](https://www.nature.com/articles/nbt.4091)
 * [Seurat. Butler et al., Nature Biotech., 2018. Integrating single-cell transcriptomic data across different conditions, technologies, and species](https://www.nature.com/articles/nbt.4096)
 
 
 ### Data imputation
+
+
 * [Talwar et al., Scientific Reports, 2018. AutoImpute: Autoencoder based imputation of single-cell RNA-seq data](https://www.nature.com/articles/s41598-018-34688-x)
 * [Andrews and Hemberg, F1000Research, 2019. False signals induced by single-cell imputation](https://f1000research.com/articles/7-1740)
 * [Huang et al., Nat. Methods, 2018. SAVER: gene expression recovery for single-cell RNA sequencing](https://www.nature.com/articles/s41592-018-0033-z)
