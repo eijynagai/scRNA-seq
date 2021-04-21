@@ -36,6 +36,7 @@ been manually curated and content checked since 2020 April.
 <br>
 
 ### Review papers
+* [Andrew E. Teschendorff & Andrew P. Feinberg, Nature Reviews Genetics, 2021. Statistical mechanics meets single-cell biology](https://www.nature.com/articles/s41576-021-00341-z)
 * [Vilas Menon, Briefings in Functional Genomics, 2018. Clustering single cells: a review of approaches on
 high-and low-depth single-cell RNA-seq data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6063268/pdf/elx044.pdf)
 * [Hwang et al, Nature EMM, 2018. Single-cell RNA sequencing technologies and bioinformatics pipelines](https://www.nature.com/articles/s12276-018-0071-8)
