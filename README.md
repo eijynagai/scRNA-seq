@@ -147,14 +147,13 @@ on coexpression analysis](https://genome.cshlp.org/content/30/6/849.full.pdf+htm
 
 
 ### Data resources
-
+* [The Human Cell Atlas](https://data.humancellatlas.org/analyze/portals/single-cell-expression-atlas)
 * [Datasets from 10XGenomics](https://support.10xgenomics.com/single-cell-gene-expression/datasets)
 * [Manually curated database from Svensson's lab](http://www.nxn.se/single-cell-studies/)
 * [Human and mouse data from Hemberg's lab](https://hemberg-lab.github.io/scRNA.seq.datasets/)
-* [scRNA-tools: A collection of scRNA-seq tools](https://www.scrna-tools.org/)
 
 ### List of packages
-
+* [scRNA-tools: A collection of scRNA-seq tools](https://www.scrna-tools.org/)
 * [Seurat3](https://satijalab.org/seurat/)
 * [Monocle3](https://github.com/cole-trapnell-lab/monocle3)
 * [Velocity](http://velocyto.org/)
@@ -167,7 +166,7 @@ on coexpression analysis](https://genome.cshlp.org/content/30/6/849.full.pdf+htm
 * [SingleR: bioconductor package to annotate single-cell RNA-seq data](https://bioconductor.org/packages/devel/bioc/vignettes/SingleR/inst/doc/SingleR.html)
 
 ### Big projects, Atlas
-
+* [The Human Cell Atlas](https://data.humancellatlas.org/analyze/portals/single-cell-expression-atlas)
 * [Saunders et al, Cell, 2018. Molecular Diversity and Specializations among the Cells of the Adult Mouse Brain](https://www.sciencedirect.com/science/article/pii/S0092867418309553?via%3Dihub#sec4)
 
 
