@@ -144,7 +144,6 @@ on coexpression analysis](https://genome.cshlp.org/content/30/6/849.full.pdf+htm
 * [scRNA-tools](https://www.scrna-tools.org/)
 * [A collection of 55 trajectory inference methods](https://github.com/dynverse/dynmethods#list-of-included-methods)
 * [Anthony Gitter. Single-cell RNA-seq pseudotime estimation algorithms. 2018. doi:10.5281/zenodo.1297422](https://github.com/agitter/single-cell-pseudotime)
-* [Velocyto](http://velocyto.org/)
 
 
 ### Data resources
@@ -164,6 +163,8 @@ on coexpression analysis](https://genome.cshlp.org/content/30/6/849.full.pdf+htm
 ### Marker genes identification
 * [Lorenzo et al., NAR, 2020. Combining single-cell rna-sequencing with a molecular atlas unveils new markers for caenorhabditis elegans neurons classes](https://academic.oup.com/nar/article/48/13/7119/5857708)
 * [Descartes: human gene expression during development. Database for cell identification](https://atlas.brotmanbaty.org/bbi/human-gene-expression-during-development/dataset/liver)
+* [Azimuth: App for reference-based single cell analysis](https://azimuth.hubmapconsortium.org/)
+* [SingleR: bioconductor package to annotate single-cell RNA-seq data](https://bioconductor.org/packages/devel/bioc/vignettes/SingleR/inst/doc/SingleR.html)
 
 ### Big projects, Atlas
 
