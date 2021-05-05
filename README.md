@@ -73,6 +73,7 @@ Let's divide the scRNA-seq workflow in two parts:
 
 ### Experimental design
 
+* [Domenico et al., STAR Protocols, 2020. Optimized workflow for single-cell transcriptomics on infectious diseases including COVID-19](https://www.sciencedirect.com/science/article/pii/S2666166720302203)
 * [Molin and Camillo, Briefings in Bioinformatics, 2019. How to design a single-cell RNA-sequencing experiment: pitfalls, challenges and perspectives](https://academic.oup.com/bib/article/20/4/1384/4831233)
 * [Zhang et al., Nature Communications, 2020. Determining sequencing depth in a single-cell RNA-seq experiment](https://www.nature.com/articles/s41467-020-14482-y)
 * [Lafzi et al., Nature Protocols, 2018. Tutorial: guidelines for the experimental design of single-cell RNA sequencing studies](https://www.nature.com/articles/s41596-018-0073-y)
