@@ -53,6 +53,7 @@ high-and low-depth single-cell RNA-seq data](https://www.ncbi.nlm.nih.gov/pmc/ar
 
 
 ### Challenges and open questions
+* [Argelaguet et al., Nature Biotechnology, 2021. Computational principles and challenges in single-cell data integration](https://www.nature.com/articles/s41587-021-00895-7)
 * [Lahnemann et al., Genome Biology, 2020. Eleven grand challenges in single-cell data science](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1926-6)
 
 ### Multiomics integration
