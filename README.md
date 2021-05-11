@@ -82,6 +82,11 @@ Let's divide the scRNA-seq workflow in two parts:
 
 ### 2- Computational analysis of the expression matrix
 
+### Data integration
+* [Liu et al., Nature Biotechnology, 2021. Robust integration of multiple single-cell RNA sequencing datasets using a single reference space](https://www.nature.com/articles/s41587-021-00859-x)
+* [Hie et al., Nature Biotechnology, 2019. Efficient integration of heterogeneous single-cell transcriptomes using Scanorama](https://www.nature.com/articles/s41587-019-0113-3)
+
+
 ### Droplet identification
 * [Lun et al., Genome Biology, 2019. EmptyDrops: distinguishing cells from empty droplets in droplet-based single-cell RNA sequencing data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1662-y)
 
