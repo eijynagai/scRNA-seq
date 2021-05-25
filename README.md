@@ -38,6 +38,7 @@ been manually curated and content checked since 2020 April.
 
 ### Review papers
 * [Andrew E. Teschendorff & Andrew P. Feinberg, Nature Reviews Genetics, 2021. Statistical mechanics meets single-cell biology](https://www.nature.com/articles/s41576-021-00341-z)
+* [Balzer et al, JASN, 2021. How to Get Started with Single Cell RNA Sequencing Data Analysis](https://jasn.asnjournals.org/content/early/2021/03/12/ASN.2020121742)
 * [Vilas Menon, Briefings in Functional Genomics, 2018. Clustering single cells: a review of approaches on
 high-and low-depth single-cell RNA-seq data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6063268/pdf/elx044.pdf)
 * [Hwang et al, Nature EMM, 2018. Single-cell RNA sequencing technologies and bioinformatics pipelines](https://www.nature.com/articles/s12276-018-0071-8)
@@ -131,7 +132,8 @@ Recommended tools as in [Tutorial: guidelines for the computational analysis of 
 
 
 
-### 
+### Cluster annotation and marker genes
+* [Clarke et al, Nature Protocols, 2021. Tutorial: guidelines for annotating single-cell transcriptomic maps using automated and manual methods](https://www.nature.com/articles/s41596-021-00534-0)
 
 
 ### Co-expression
