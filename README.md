@@ -91,7 +91,7 @@ Let's divide the scRNA-seq workflow in two parts:
 
 ### Droplet identification
 * [Lun et al., Genome Biology, 2019. EmptyDrops: distinguishing cells from empty droplets in droplet-based single-cell RNA sequencing data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1662-y)
-
+* [Griffiths et al., Nat. Commun., 2018. Detection and removal of barcode swapping in single-cell RNA-seq data](https://www.nature.com/articles/s41467-018-05083-x)
 
 ### Doublet inference
 * [Wolock et al., Cell Systems, 2019. Scrublet: Computational Identification of Cell Doublets in Single-Cell Transcriptomic Data](https://www.sciencedirect.com/science/article/pii/S2405471218304745)
