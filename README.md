@@ -37,6 +37,7 @@ been manually curated and content checked since 2020 April.
 <br>
 
 ### Review papers
+* [Huo et al, Briefins in Bioinformatics, 2021. Single-cell multi-omics sequencing: application trends, COVID-19, data analysis issues and prospects](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbab229/6295809?rss=1)
 * [Andrew E. Teschendorff & Andrew P. Feinberg, Nature Reviews Genetics, 2021. Statistical mechanics meets single-cell biology](https://www.nature.com/articles/s41576-021-00341-z)
 * [Balzer et al, JASN, 2021. How to Get Started with Single Cell RNA Sequencing Data Analysis](https://jasn.asnjournals.org/content/early/2021/03/12/ASN.2020121742)
 * [Vilas Menon, Briefings in Functional Genomics, 2018. Clustering single cells: a review of approaches on
@@ -59,6 +60,7 @@ high-and low-depth single-cell RNA-seq data](https://www.ncbi.nlm.nih.gov/pmc/ar
 * [Lahnemann et al., Genome Biology, 2020. Eleven grand challenges in single-cell data science](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1926-6)
 
 ### Multiomics integration
+* [Huo et al, Briefings in Bioinformatics, 2021. Single-cell multi-omics sequencing: application trends, COVID-19, data analysis issues and prospects]
 * [Gorin et al., Genome Biology, 2020. Protein velocity and acceleration from single-cell multiomics experiments](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1945-3)
 
 <br>
