@@ -129,9 +129,6 @@ Recommended tools as in [Tutorial: guidelines for the computational analysis of 
 * [Patruno et at., Briefings in Bioinformatics, 2020. A review of computational strategies for denoising and imputation of single-cell transcriptomic data](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbaa222/5916940)
 * [Tang et al., Bioinformatics, 2020. bayNorm: Bayesian gene expression recovery, imputation and normalization for single-cell RNA-sequencing data](https://academic.oup.com/bioinformatics/article/36/4/1174/5581401)
 
-### Multiomics
-* [Hao et al, Cell, 2021. Integrated analysis of multimodal single-cell data](https://www.sciencedirect.com/science/article/pii/S0092867421005833?via%3Dihub)
-
 
 
 ### Cluster annotation and marker genes
