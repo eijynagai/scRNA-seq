@@ -1,6 +1,6 @@
 # Single Cell Trancriptomics 
 
-A personal collection focused on scRNA-seq analysis.
+A personal collection focused on scRNA-seq analysis =)
 <br>
 
 ## Significance
