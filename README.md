@@ -37,6 +37,7 @@ been manually curated and content checked since 2020 April.
 <br>
 
 ### Review papers
+* [Adil et al, Frontiers in Neuroscience, 2021. Single-cell transcriptomics: Current methods and challenges in data acquisition and analysis](https://www.frontiersin.org/articles/10.3389/fnins.2021.591122/full)
 * [Miao et al, Nature Reviews Nephrology, 2021. Multi-omics integration in the age of million single-cell data](https://www.nature.com/articles/s41581-021-00463-x)
 * [Huo et al, Briefins in Bioinformatics, 2021. Single-cell multi-omics sequencing: application trends, COVID-19, data analysis issues and prospects](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbab229/6295809?rss=1)
 * [Andrew E. Teschendorff & Andrew P. Feinberg, Nature Reviews Genetics, 2021. Statistical mechanics meets single-cell biology](https://www.nature.com/articles/s41576-021-00341-z)
