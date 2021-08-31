@@ -133,6 +133,12 @@ Recommended tools as in [Tutorial: guidelines for the computational analysis of 
 * [Tang et al., Bioinformatics, 2020. bayNorm: Bayesian gene expression recovery, imputation and normalization for single-cell RNA-sequencing data](https://academic.oup.com/bioinformatics/article/36/4/1174/5581401)
 
 
+### Marker genes identification
+* [Lorenzo et al., NAR, 2020. Combining single-cell rna-sequencing with a molecular atlas unveils new markers for caenorhabditis elegans neurons classes](https://academic.oup.com/nar/article/48/13/7119/5857708)
+* [Descartes: human gene expression during development. Database for cell identification](https://atlas.brotmanbaty.org/bbi/human-gene-expression-during-development/dataset/liver)
+* [Azimuth: App for reference-based single cell analysis](https://azimuth.hubmapconsortium.org/)
+* [SingleR: bioconductor package to annotate single-cell RNA-seq data](https://bioconductor.org/packages/devel/bioc/vignettes/SingleR/inst/doc/SingleR.html)
+
 
 ### Cluster annotation and marker genes
 * [Clarke et al, Nature Protocols, 2021. Tutorial: guidelines for annotating single-cell transcriptomic maps using automated and manual methods](https://www.nature.com/articles/s41596-021-00534-0)
@@ -141,6 +147,21 @@ Recommended tools as in [Tutorial: guidelines for the computational analysis of 
 ### Co-expression
 * [Farahbod M. and Pavlidis P., Genome Research, 2020. Untangling the effects of cellular composition
 on coexpression analysis](https://genome.cshlp.org/content/30/6/849.full.pdf+html)
+
+
+### RNA velocity
+
+* [La Manno et al, Nature, 2018. RNA velocity of single cells](https://www.nature.com/articles/s41586-018-0414-6)
+
+
+
+
+
+
+### Gene Regulatory Network
+
+
+
 
 
 
@@ -170,12 +191,6 @@ on coexpression analysis](https://genome.cshlp.org/content/30/6/849.full.pdf+htm
 * [Monocle3](https://github.com/cole-trapnell-lab/monocle3)
 * [Velocity](http://velocyto.org/)
 * [future: Unified Parallel and Distributed Processing in R for Everyone](https://github.com/HenrikBengtsson/future/tree/master)
-
-### Marker genes identification
-* [Lorenzo et al., NAR, 2020. Combining single-cell rna-sequencing with a molecular atlas unveils new markers for caenorhabditis elegans neurons classes](https://academic.oup.com/nar/article/48/13/7119/5857708)
-* [Descartes: human gene expression during development. Database for cell identification](https://atlas.brotmanbaty.org/bbi/human-gene-expression-during-development/dataset/liver)
-* [Azimuth: App for reference-based single cell analysis](https://azimuth.hubmapconsortium.org/)
-* [SingleR: bioconductor package to annotate single-cell RNA-seq data](https://bioconductor.org/packages/devel/bioc/vignettes/SingleR/inst/doc/SingleR.html)
 
 ### Big projects, Atlas
 * [The Human Cell Atlas](https://data.humancellatlas.org/analyze/portals/single-cell-expression-atlas)
