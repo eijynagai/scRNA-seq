@@ -144,7 +144,7 @@ on coexpression analysis](https://genome.cshlp.org/content/30/6/849.full.pdf+htm
 
 
 ### RNA velocity
-
+* [Svencsson and Pachter, Molecular Cell, 2018. RNA Velocity: Molecular Kinetics from Single-Cell RNA-Seq](https://www.cell.com/molecular-cell/pdf/S1097-2765(18)30797-4.pdf)
 * [La Manno et al, Nature, 2018. RNA velocity of single cells](https://www.nature.com/articles/s41586-018-0414-6)
 
 
