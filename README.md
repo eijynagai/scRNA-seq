@@ -144,7 +144,9 @@ on coexpression analysis](https://genome.cshlp.org/content/30/6/849.full.pdf+htm
 
 
 ### RNA velocity
+* 
 * [Soneson, et al, PLOS Computational Biology, 2021. Preprocessing choices affect RNA velocity results for droplet scRNA-seq data](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008585)
+* [Li et al, Front. Cell Dev. Biol., 2020. Exploring Additional Valuable Information From Single-Cell RNA-Seq Data](https://www.frontiersin.org/articles/10.3389/fcell.2020.593007/full)
 * [Berger et al, Nature Biotechnology, 2020. Generalizing RNA velocity to transient cell states through dynamical modeling](https://www.nature.com/articles/s41587-020-0591-3)
 * [Svencsson and Pachter, Molecular Cell, 2018. RNA Velocity: Molecular Kinetics from Single-Cell RNA-Seq](https://www.cell.com/molecular-cell/pdf/S1097-2765(18)30797-4.pdf)
 * [La Manno et al, Nature, 2018. RNA velocity of single cells](https://www.nature.com/articles/s41586-018-0414-6)
