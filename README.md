@@ -1,18 +1,19 @@
 # Single Cell Trancriptomics 
 
 A personal collection focused on scRNA-seq analysis =)
-<br>
+---
 
-## Significance
+### Significance
 
 scRNA-seq has emerged as a standard technology to study and enhance the 
-understanding of transcription. The space here is dedicated to collect
-papers, methods, tutorials, and stuff related to the technology. It has 
-been manually curated and content checked since 2020 April.
+understanding of transcription. This space is dedicated to collecting
+papers, methods, tutorials, and related resources. It has 
+been manually curated and content checked since April 2020.
 
-## Welcome to single cell world
 
-### Getting started: scRNA-seq analysis 101
+## Welcome to Single Cell World!
+
+#### Getting started: scRNA-seq Analysis 101
 * [Andrews et al., Nature Protocols, 2020. Tutorial: guidelines for the computational analysis of single-cell RNA sequencing data](https://www.nature.com/articles/s41596-020-00409-w)
 * [Hanniffa's Lab single-cell RNA-seq data analysis bundle](https://github.com/haniffalab/Single-cell-RNAseq-data-analysis-bundle)
 * [BioTuring's Blog: Single-cell RNA-seq tutorials](https://blog.bioturing.com/category/single-cell-rna-seq-tutorials/)
@@ -203,4 +204,3 @@ single-cell RNA-sequencing experiments](https://genomebiology.biomedcentral.com/
 
 ### Deconvolution
 * [Dong et. al, Briefings in Bioinformatics, 2020. SCDC: bulk gene expression deconvolution by multiple single-cell RNA sequencing references.](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbz166/5699815)
-
