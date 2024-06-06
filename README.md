@@ -14,6 +14,7 @@ been manually curated and content checked since April 2020.
 ## Welcome to Single Cell World!
 
 #### Getting started: scRNA-seq Analysis 101
+* [Strongly recommend][Single Cell Best practices from Theis lab](https://www.sc-best-practices.org/introduction/prior_art.html)
 * [Andrews et al., Nature Protocols, 2020. Tutorial: guidelines for the computational analysis of single-cell RNA sequencing data](https://www.nature.com/articles/s41596-020-00409-w)
 * [Hanniffa's Lab single-cell RNA-seq data analysis bundle](https://github.com/haniffalab/Single-cell-RNAseq-data-analysis-bundle)
 * [BioTuring's Blog: Single-cell RNA-seq tutorials](https://blog.bioturing.com/category/single-cell-rna-seq-tutorials/)
